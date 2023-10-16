@@ -1,0 +1,129 @@
+[
+    {
+      "most_active": {
+        "attacker_king": "Babur",
+        "defender_king": "Ibrahim Lodhi",
+        "region": "Panipat, India",
+        "name": "First Battle of Panipat"
+      },
+      "attacker_outcome": {
+        "win": 1,
+        "loss": 0
+      },
+      "battle_type": ["Pitched battle"],
+      "defender_size": {
+        "average": 100000,
+        "min": 100000,
+        "max": 100000
+      }
+    },
+    {
+      "most_active": {
+        "attacker_king": "Robert Clive",
+        "defender_king": "Siraj-ud-Daulah",
+        "region": "Plassey, India",
+        "name": "Battle of Plassey"
+      },
+      "attacker_outcome": {
+        "win": 1,
+        "loss": 0
+      },
+      "battle_type": ["Siege"],
+      "defender_size": {
+        "average": 50000,
+        "min": 50000,
+        "max": 50000
+      }
+    },
+    {
+      "most_active": {
+        "attacker_king": "Akbar",
+        "defender_king": "Rana Pratap",
+        "region": "Haldighati, India",
+        "name": "Battle of Haldighati"
+      },
+      "attacker_outcome": {
+        "win": 1,
+        "loss": 0
+      },
+      "battle_type": ["Siege"],
+      "defender_size": {
+        "average": 20000,
+        "min": 20000,
+        "max": 20000
+      }
+    },
+    {
+      "most_active": {
+        "attacker_king": "Hector Munro",
+        "defender_king": "Shuja-ud-Daula, Mir Qasim, and Shah Alam II",
+        "region": "Buxar, India",
+        "name": "Battle of Buxar"
+      },
+      "attacker_outcome": {
+        "win": 1,
+        "loss": 0
+      },
+      "battle_type": ["Pitched battle"],
+      "defender_size": {
+        "average": 40000,
+        "min": 40000,
+        "max": 40000
+      }
+    },
+    {
+      "most_active": {
+        "attacker_king": "Prithviraj Chauhan",
+        "defender_king": "Muhammad Ghori",
+        "region": "Tarain, India",
+        "name": "Second Battle of Tarain"
+      },
+      "attacker_outcome": {
+        "win": 0,
+        "loss": 1
+      },
+      "battle_type": ["Pitched battle"],
+      "defender_size": {
+        "average": 12000,
+        "min": 12000,
+        "max": 12000
+      }
+    },
+    {
+      "most_active": {
+        "attacker_king": "Shivaji",
+        "defender_king": "Aurangzeb",
+        "region": "Purandar, India",
+        "name": "Siege of Purandar"
+      },
+      "attacker_outcome": {
+        "win": 1,
+        "loss": 0
+      },
+      "battle_type": ["Siege"],
+      "defender_size": {
+        "average": 8000,
+        "min": 8000,
+        "max": 8000
+      }
+    },
+    {
+      "most_active": {
+        "attacker_king": "Akbar",
+        "defender_king": "Raja Birbal",
+        "region": "Deccan, India",
+        "name": "Battle of Peshwa"
+      },
+      "attacker_outcome": {
+        "win": 1,
+        "loss": 0
+      },
+      "battle_type": ["Pitched battle"],
+      "defender_size": {
+        "average": 15000,
+        "min": 15000,
+        "max": 15000
+      }
+    }
+  ]
+  
